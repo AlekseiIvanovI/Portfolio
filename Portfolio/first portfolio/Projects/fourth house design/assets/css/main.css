@@ -4033,3 +4033,39 @@ input, select, textarea {
 #two .content.unique .major.unique{
 	width: 100%;
 }
+
+.diff{
+	height: 350px;
+}
+
+.diff2{
+	height: 400px;
+}
+
+.bigger{
+	height: 905px;
+}
+
+.lilbig{
+	height: 905px;
+}
+
+.bigimg{
+	height: 865px;
+}
+
+.bigimg1{
+	height: 900px;
+}
+
+.inc{
+	height: 450px;
+}
+
+.diff3{
+	height: 450px;
+}
+
+.diff4{
+	height: 500px;
+}
