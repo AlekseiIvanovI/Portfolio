@@ -1,0 +1,23 @@
+===== IMPORTANT NOTE - Description English =====
+
+Email template
+When you create your account in EmailJs, copy the text in the created template.
+
+===== NOTA IMPORTANTE - Descripción Español =====
+Plantilla de email
+Cuando cree su cuenta en EmailJs, copie el texto en la plantilla creada.
+
+Subject *
+New message from {{user_name}}
+
+Content *
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Subject: {{user_subject}}
+
+Message: {{user_message}}
+
+Best wishes,
+EmailJS team
