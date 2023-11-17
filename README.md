@@ -11,8 +11,6 @@ You can visit the live version of the website at [https://alexicoder.com/)
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
-- [Insert any additional frameworks or libraries used]
 
 ## Features
 
