@@ -1,4 +1,6 @@
 # Portfolio Website
+[screen-capture.webm](https://github.com/AlekseiIvanovI/Portfolio/assets/149438366/5445f273-39d2-4acd-8ad9-c60fab10de1f)
+
 
 This repository contains the source code and assets for my personal portfolio website. The website showcases my projects, skills, and experience as a software engineer.
 
